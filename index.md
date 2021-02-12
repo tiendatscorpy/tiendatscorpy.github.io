@@ -4,11 +4,12 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[COVID-19's impact to Finland Taxi Industry](/projects/thesis)
+<img src="images/taxi.jpg?raw=true"/>
+
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Scala's Student Lunch Centralized Application](/project/lunchlist)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
