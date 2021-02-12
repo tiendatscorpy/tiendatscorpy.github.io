@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
+title: Dylan Nguyen # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  
+  Master of Signal, Speech and Language Processing (SSLP) @ Aalto University | Fullstack Developer @ Trafore Oy
   <br><br>
-  Second description 
+  “Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
+  ―Josh Wills, Director of Data Engineering at Slack
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/dylan-nguyen-43014190/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
