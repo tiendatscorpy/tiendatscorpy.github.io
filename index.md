@@ -9,7 +9,7 @@
 
 
 ---
-[Scala's Student Lunch Centralized Application](/project/lunchlist)
+[Scala's Student Lunch Centralized Application](/projects/lunchlist)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
