@@ -7,10 +7,9 @@
 [COVID-19's impact to Finland Taxi Industry](/projects/thesis)
 <img src="images/taxi.jpg?raw=true"/>
 
-
 ---
 [Scala's Student Lunch Centralized Application](/projects/lunchlist)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/meal.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
