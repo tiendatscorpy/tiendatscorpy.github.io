@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning 
 
 [COVID-19's impact to Finland Taxi Industry](/projects/thesis)
 <img src="images/taxi.jpg?raw=true"/>
 
 ---
-[Scala's Student Lunch Centralized Application](/projects/lunchlist)
-<img src="images/meal.jpg?raw=true"/>
+
+[Climate Change Dashboard](/projects/climate_change)
 
 ---
 [Project 3 Title](http://example.com/)
@@ -17,7 +17,11 @@
 
 ---
 
-### Category Name 2
+### Software Development
+
+[Scala's Student Lunch Centralized Application](/projects/lunchlist)
+<img src="images/meal.jpg?raw=true"/>
+
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -29,7 +33,3 @@
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
