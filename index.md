@@ -5,17 +5,14 @@
 ### Machine Learning 
 
 [COVID-19's impact to Finland Taxi Industry](/projects/thesis)
-<img src="images/taxi.jpg?raw=true"/>
+
+This is my Bachelor Thesis for Data Science Major @Aalto University, where I explored a 14-year dataset of taxi shifts in Finland, in order to trace the impact of COVID-19 pandemics to the taxi industry. Various time series correlation statistics are utilized to estimate the correlation between COVID-19 cases in Finland and taxi revenue data. Furthermore, taxi shift revenue is fitted to a Facebook Prophet model for prediction purpose.
 
 ---
 
-[Climate Change Dashboard](/projects/climate_change)
-<img src="images/climate.png?raw=true"/>
+[Climate Change Dashboard With Reaktor](/projects/climate_change)
 
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
