@@ -10,6 +10,8 @@
 ---
 
 [Climate Change Dashboard](/projects/climate_change)
+<img src="images/climate.png?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
