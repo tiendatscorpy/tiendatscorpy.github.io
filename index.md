@@ -2,7 +2,6 @@
 
 ---
 
-### Machine Learning 
 
 [COVID-19's impact to Finland Taxi Industry](/projects/thesis)
 
@@ -12,28 +11,19 @@ This is my Bachelor Thesis for Data Science Major @Aalto University, where I exp
 
 [Climate Change Dashboard With Reaktor](/projects/climate_change)
 
-
+This is a capstone project for **Data Science Project (CS-C3250)** course @Aalto University. The aim of this project is to build a data visualization dashboard for environmental data, which can be found [here](https://climate-change-c3250-2020.herokuapp.com/), and applying Machine Learning methodologies to explore the correlation relationship between the rising of temperatures and other environmental variables.
 
 ---
 
 [SQL University Database](/projects/university)
 
+This is my Capstone project for **Database (CS-A1153)** course @Aalto University. The aim of this project is to design a SQL database for an university, which contains information about courses, rooms, room reservations, enrollments, and allows numerous SQL operations on the database.
 
 ---
-
-### Software Development
 
 [Scala's Student Lunch Centralized Application](/projects/lunchlist)
+<!---
 <img src="images/meal.jpg?raw=true"/>
-
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+-->
 
 
