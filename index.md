@@ -2,7 +2,6 @@
 
 ---
 
-
 [COVID-19's impact to Finland Taxi Industry](/projects/thesis)
 
 This is my Bachelor Thesis for Data Science Major @Aalto University, where I explored a 14-year dataset of taxi shifts in Finland, in order to trace the impact of COVID-19 pandemics to the taxi industry. Various time series correlation statistics are utilized to estimate the correlation between COVID-19 cases in Finland and taxi revenue data. Furthermore, taxi shift revenue is fitted to a Facebook Prophet model for prediction purpose.
@@ -21,9 +20,7 @@ This is my Capstone project for **Database (CS-A1153)** course @Aalto University
 
 ---
 
-[Scala's Student Lunch Centralized Application](/projects/lunchlist)
-<!---
+<!---[Scala's Student Lunch Centralized Application](/projects/lunchlist)
 <img src="images/meal.jpg?raw=true"/>
 -->
-
 
