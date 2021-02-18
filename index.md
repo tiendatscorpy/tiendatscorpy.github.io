@@ -16,6 +16,11 @@ This is my Bachelor Thesis for Data Science Major @Aalto University, where I exp
 
 ---
 
+[SQL University Database](/projects/university)
+
+
+---
+
 ### Software Development
 
 [Scala's Student Lunch Centralized Application](/projects/lunchlist)
