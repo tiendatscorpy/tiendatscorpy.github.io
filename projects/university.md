@@ -12,7 +12,7 @@ This is a SQL Capstone project for my Aalto course **CS-A1153 Databases**, durin
 
 ## UML and relational schema
 
-<img src="../images/UML_university.png?raw=true"/>
+<img src="../images/UML_university.PNG?raw=true"/>
 
 The relational schema is as followed:
 - Student (StudentID, Name, DateOfBirth, DegreeProgram, StartYear, 
