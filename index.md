@@ -37,3 +37,5 @@ This is my hobby project to utilize search algorithms in order to find the best 
 
 - AWS Essential Training for Developers (Issued by LinkedIn)
 - Learning Hadoop (Issued by LinkedIn)
+- Analytics and Big Data - Data Scientist (Issued by AWSEducate)
+- Analytics and Big Data - Machine Learning Scientist (Issued by AWSEducate)
