@@ -29,13 +29,14 @@ This is my Capstone project for **Database (CS-A1153)** course @Aalto University
 
 [FIFA 21 Most Optimized Transfer Windows](/projects/fifa_transfer)
 
-Stacks: **Python, Pandas, EDA, Search Algorithm**
+Stacks: **Pandas, EDA, Search Algorithm, Knapsack Algorithm**
 
 This is my hobby project to utilize search algorithms in order to find the best FIFA 21 players given the budget constraint of 100M euros.
 
 ### Certificates
 
 - AWS Essential Training for Developers (Issued by LinkedIn)
-- Learning Hadoop (Issued by LinkedIn)
 - Analytics and Big Data - Data Scientist (Issued by AWSEducate)
 - Analytics and Big Data - Machine Learning Scientist (Issued by AWSEducate)
+- Learning Hadoop (Issued by LinkedIn)
+
