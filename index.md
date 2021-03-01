@@ -33,6 +33,8 @@ Stacks: **Pandas, EDA, Search Algorithm, Knapsack Algorithm**
 
 This is my hobby project to utilize search algorithms in order to find the best FIFA 21 players given the budget constraint of 100M euros.
 
+---
+
 ### Certificates
 
 - AWS Essential Training for Developers (Issued by LinkedIn)
