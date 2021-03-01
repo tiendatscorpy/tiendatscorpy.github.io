@@ -27,6 +27,14 @@ This is my Capstone project for **Database (CS-A1153)** course @Aalto University
 
 ---
 
+[Football Score Prediction and Classfication](https://github.com/tiendatscorpy/interesting_football/blob/main/Data%20Science%20Report.pdf)
+
+Stacks: **Jupyter Notebook, Python, Linear Regression, Logistic Regression, K-Nearest Neighbours (KNN), Principal Component Analysis (PCA)**
+
+This is a capstone project for **Data Science (CS-C3160)** course @Aalto University. The goal of this project is to predict the total number of goals in football matches and whether the matches are interesting to watch. In attempting to solve this goal prediction problem, I used Linear Regression as well as Polynomial Regression on the training data set, with and without the use of Principle Components Analysis. For the classification problem, I applied K Nearest Neighbours as well as Logistic Regression. The best regression model to predict the total number of goals is Linear Regression, with MSE 1.47 on the test data. Polynomial Regression degree 2 model follows suit with slightly worse MSE 1.51 measure on the test data even though it fits better compared to Linear Regression on the training data. The best classification model to predict whether the match is interesting is Logistic Regression with 67.8% accuracy score, slightly better than KNN with 64.9% accuracy.
+
+---
+
 [FIFA 21 Most Optimized Transfer Windows](/projects/fifa_transfer)
 
 Stacks: **Pandas, EDA, Search Algorithm, Knapsack Algorithm**
