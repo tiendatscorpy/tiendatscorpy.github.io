@@ -48,6 +48,7 @@ This is my hobby project to utilize search algorithms in order to find the best 
 - [AWS Essential Training](/certs/aws.pdf) (Issued by LinkedIn)
 - [Apache Spark Essential Training](/certs/spark.pdf)  (Issued by LinkedIn)
 - [ElasticSearch Essential Training](/certs/elasticsearch.pdf)  (Issued by LinkedIn)
+- Kafka Essential Training (Issued by LinkedIn)
 - Analytics and Big Data - Data Scientist (Issued by AWSEducate)
 - Analytics and Big Data - Machine Learning Scientist (Issued by AWSEducate)
 - Learning Hadoop (Issued by LinkedIn)
