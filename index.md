@@ -1,6 +1,22 @@
 ## Portfolio
 
-### Projects
+### Data Engineering Projects
+---
+[Optimizing Public Transportation With Kafka Streaming]()
+
+Stacks: **REST Proxy, Kafka Connect, KSQL, Apache Avro, Faust Python Stream Processing**
+
+In this project, I used Kafka and Kafka ecosystem to  stream public transit status using Kafka and the Kafka ecosystem to build a
+stream processing application that shows the status of trains in real-time.
+
+---
+[Evaluate Human Balance with Spark Streaming]()
+
+Stacks: **Spark Streaming, Redis, Base64, JSON**
+
+In this project, I produced a stream of data to a Kafka topic and made it available to the STEDI application to consume. This data is used in a new feature for the application which consist of a graph that shows fall risk (will they fall and become injured?) for recent assessments. The development team has built a graph, which is ready to receive risk information from Kafka.
+
+### Data Science Projects
 ---
 
 [COVID-19's impact to Finland Taxi Industry](/projects/thesis)
