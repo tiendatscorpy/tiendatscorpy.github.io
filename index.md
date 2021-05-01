@@ -60,7 +60,7 @@ This is my hobby project to utilize search algorithms in order to find the best 
 ---
 
 ### Certificates
-
+- [Data Engineer Nanodegree](https://confirm.udacity.com/R5HGVA77) (Issued by Udacity)
 - [AWS Essential Training](/certs/aws.pdf) (Issued by LinkedIn)
 - [Apache Spark Essential Training](/certs/spark.pdf)  (Issued by LinkedIn)
 - [ElasticSearch Essential Training](/certs/elasticsearch.pdf)  (Issued by LinkedIn)
