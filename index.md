@@ -56,8 +56,5 @@ This is a capstone project for Data Science (CS-C3160) course @Aalto University.
 - [AWS Essential Training](/certs/aws.pdf) (Issued by LinkedIn)
 - [Apache Spark Essential Training](/certs/spark.pdf)  (Issued by LinkedIn)
 - [ElasticSearch Essential Training](/certs/elasticsearch.pdf)  (Issued by LinkedIn)
-- Kafka Essential Training (Issued by LinkedIn)
-- Analytics and Big Data - Data Scientist (Issued by AWSEducate)
-- Analytics and Big Data - Machine Learning Scientist (Issued by AWSEducate)
-- Learning Hadoop (Issued by LinkedIn)
-
+- [Analytics and Big Data - Data Scientist](/pdf/awseducate.pdf) (Issued by AWSEducate)
+- [Analytics and Big Data - Machine Learning Scientist](/pdf/awseducate.pdf) (Issued by AWSEducate)
