@@ -6,6 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://xkcd.com/1838/">ML in a nutshell</a> 
   <br><br>
+  <a href="https://tiendatscorpy.github.io/pdf/CV.pdf">View My CV</a> 
+  <br><br>
   <a href="https://www.linkedin.com/in/dylan-nguyen-43014190/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
