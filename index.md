@@ -1,23 +1,29 @@
+## Summary
+
+Team-oriented data engineer proven in critical projects. Patient problem-solver with ability to leverage cloud solutions and an appreciate for clean code. Adept at data gathering, ETL pipelines, and databases.
+
 ## Portfolio
 
 ### Data Engineering Projects
 ---
-Udacity - Optimizing Public Transportation With Kafka Streaming
+[Optimizing Public Transportation With Kafka Streaming]()
 
 Stack: **REST Proxy, Kafka Connect, KSQL, Apache Avro, Faust Python Stream Processing**
 
-In this project, I used Kafka and Kafka ecosystem to  stream public transit status using Kafka and the Kafka ecosystem to build a
+In this Udacity project, I used Kafka and Kafka ecosystem to  stream public transit status using Kafka and the Kafka ecosystem to build a
 stream processing application that shows the status of trains in real-time.
 
 <img src="./images/udacity/diagram.png?raw=true"/>
 
 
----
-Udacity - Evaluate Human Balance with Spark Streaming
+[Evaluate Human Balance with Spark Streaming]()
 
 Stack: **Spark Streaming, Redis, Base64, JSON**
 
-In this project, I produced a stream of data to a Kafka topic and made it available to the STEDI application to consume. This data is used in a new feature for the application which consist of a graph that shows fall risk (will they fall and become injured?) for recent assessments. The development team has built a graph, which is ready to receive risk information from Kafka.
+In this Udacity project, I produced a stream of data to a Kafka topic and made it available to the STEDI application to consume. This data is used in a new feature for the application which consist of a graph that shows fall risk (will they fall and become injured?) for recent assessments. The development team has built a graph, which is ready to receive risk information from Kafka.
+
+<img src="./images/udacity/STEDI.png?raw=true"/>
+
 
 ### Data Science Projects
 ---
@@ -28,7 +34,6 @@ Stack: **Python, Pandas, Jupyter Notebook, Facebook Prophet**
 
 This is my Bachelor Thesis for Data Science Major @Aalto University, where I explored a 14-year dataset of taxi shifts in Finland, in order to trace the impact of COVID-19 pandemics to the taxi industry. Various time series correlation statistics are utilized to estimate the correlation between COVID-19 cases in Finland and taxi revenue data. Furthermore, taxi shift revenue is fitted to a Facebook Prophet model for prediction purpose.
 
----
 
 [Climate Change Dashboard With Reaktor](/projects/climate_change)
 
@@ -36,7 +41,6 @@ Stack: **Heroku, Flask, Plotly, Jupyter Notebook, Python**
 
 This is a capstone project for Data Science Project (CS-C3250) course @Aalto University. The aim of this project is to build a data visualization dashboard for environmental data, which can be found [here](https://climate-change-c3250-2020.herokuapp.com/), and applying Machine Learning methodologies to explore the correlation relationship between the rising of temperatures and other environmental variables.
 
----
 
 [SQL University Database](/projects/university)
 
