@@ -45,6 +45,7 @@ This is my Capstone project for Database (CS-A1153) course @Aalto University. Th
 ---
 
 ### Certificates
+- [Ultimate AWS Certified Solutions Architect Associate 2022](https://udemy-certificate.s3.amazonaws.com/pdf/UC-689cc877-0186-4ea3-b654-61c7a81881a8.pdf) (Issued by Udemy)
 - [Data Engineer Nanodegree](https://confirm.udacity.com/R5HGVA77) (Issued by Udacity)
 - [Scalable Microservices with Kubernetes]() (Issued by Udacity)
 - [AWS Essential Training](/certs/aws.pdf) (Issued by LinkedIn)
