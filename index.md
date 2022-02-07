@@ -9,6 +9,9 @@ Stack: **REST Proxy, Kafka Connect, KSQL, Apache Avro, Faust Python Stream Proce
 In this project, I used Kafka and Kafka ecosystem to  stream public transit status using Kafka and the Kafka ecosystem to build a
 stream processing application that shows the status of trains in real-time.
 
+<img src="./images/udacity/diagram.png?raw=true"/>
+
+
 ---
 Udacity - Evaluate Human Balance with Spark Streaming
 
