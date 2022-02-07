@@ -22,7 +22,7 @@ Stack: **Spark Streaming, Redis, Base64, JSON**
 
 In this Udacity project, I produced a stream of data to a Kafka topic and made it available to the STEDI application to consume. This data is used in a new feature for the application which consist of a graph that shows fall risk (will they fall and become injured?) for recent assessments. The development team has built a graph, which is ready to receive risk information from Kafka.
 
-<img src="./images/udacity/STEDI.png?raw=true"/>
+<img src="./images/udacity/STEDI.PNG?raw=true"/>
 
 
 ### Data Science Projects
