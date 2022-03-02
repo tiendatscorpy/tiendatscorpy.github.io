@@ -1,12 +1,12 @@
 ## Summary
 
-Team-oriented data engineer proven in critical projects. Patient problem-solver with ability to leverage cloud solutions and an appreciate for clean code. Adept at data gathering, ETL pipelines, and databases.
+AWS Certified Solution Architect. Team-oriented data engineer proven in critical projects. Patient problem-solver with ability to leverage cloud solutions and an appreciate for clean code. Adept at data gathering, ETL pipelines, and databases.
 
 ## Portfolio
 
 ### Data Engineering Projects
 ---
-[Optimizing Public Transportation With Kafka Streaming]()
+[Optimizing Public Transportation With Kafka Streaming](https://confirm.udacity.com/R5HGVA77)
 
 Stack: **REST Proxy, Kafka Connect, KSQL, Apache Avro, Faust Python Stream Processing**
 
@@ -16,7 +16,7 @@ stream processing application that shows the status of trains in real-time.
 <img src="./images/udacity/diagram.png?raw=true"/>
 
 
-[Evaluate Human Balance with Spark Streaming]()
+[Evaluate Human Balance with Spark Streaming](https://confirm.udacity.com/R5HGVA77)
 
 Stack: **Spark Streaming, Redis, Base64, JSON**
 
@@ -52,8 +52,9 @@ This is my Capstone project for Database (CS-A1153) course @Aalto University. Th
 ---
 
 ### Certificates
+- [SAA-C02 Solution Architect Associate](https://www.credly.com/badges/9b7a855d-2a51-48b5-862b-5356af727408) (Issued by AWS)
 - [Ultimate AWS Certified Solutions Architect Associate 2022](https://udemy-certificate.s3.amazonaws.com/pdf/UC-689cc877-0186-4ea3-b654-61c7a81881a8.pdf) (Issued by Udemy)
-- [Data Engineer Nanodegree](https://confirm.udacity.com/R5HGVA77) (Issued by Udacity)
+- [Data Streaming Nanodegree](https://confirm.udacity.com/R5HGVA77) (Issued by Udacity)
 - [Scalable Microservices with Kubernetes]() (Issued by Udacity)
 - [AWS Essential Training](/certs/aws.pdf) (Issued by LinkedIn)
 - [Apache Spark Essential Training](/certs/spark.pdf)  (Issued by LinkedIn)
