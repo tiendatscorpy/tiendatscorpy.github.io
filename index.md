@@ -52,6 +52,7 @@ This is my Capstone project for Database (CS-A1153) course @Aalto University. Th
 ---
 
 ### Certificates
+- [DAS-C01 Data Analytics Specialty](https://verify.acloud.guru/30406DD0FAE8) (Issued by A Cloud Guru)
 - [SAA-C02 Solution Architect Associate](https://www.credly.com/badges/9b7a855d-2a51-48b5-862b-5356af727408) (Issued by AWS)
 - [Ultimate AWS Certified Solutions Architect Associate 2022](https://udemy-certificate.s3.amazonaws.com/pdf/UC-689cc877-0186-4ea3-b654-61c7a81881a8.pdf) (Issued by Udemy)
 - [Data Streaming Nanodegree](https://confirm.udacity.com/R5HGVA77) (Issued by Udacity)
